@@ -5,6 +5,7 @@
     2. Viber
     3. https://vk.com/gzhidovich
     4. 5925520@gmail.com
+    5. Skype: glebgleb781
 
 ### Education
     1. English courses at school international house from September 2017 to June 2018.
