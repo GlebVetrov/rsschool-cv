@@ -13,3 +13,11 @@ body {
 section {
     max-width: 1024px;
 }
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
