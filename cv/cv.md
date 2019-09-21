@@ -28,3 +28,14 @@
     Project role: Front-end developer
     Final project: “Timesheets” on Angular
     Project URL - https://github.com/GlebVetrov/dream-project.
+
+### Skills
+    html, css, SCSS, js, git, React, Angular 2+
+    
+### Summary
+    I am a purposeful and highly motivated person who can adjust quickly to new surroundings. 
+    My qualities such as sociability, flexibility and dependability make me good at teamwork. 
+    I am well organized and detail oriented which I believe is a key to successfully managing responsibilities. 
+    
+### English level
+    Pre-intermediate
